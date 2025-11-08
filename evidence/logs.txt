@@ -1,0 +1,182 @@
+Ether / ARP who has 192.168.1.10 says 192.168.1.20
+Ether / ARP is at 08:00:27:5b:c0:6c says 192.168.1.10 / Padding
+Ether / ARP is at 08:00:27:1f:b7:23 says 192.168.1.1
+Ether / ARP who has 192.168.1.1 says 192.168.1.20
+Ether / ARP is at 08:00:27:9b:cc:54 says 192.168.1.1 / Padding
+Ether / ARP is at 08:00:27:1f:b7:23 says 192.168.1.10
+Ether / ARP who has 192.168.1.10 says 192.168.1.20
+Ether / ARP is at 08:00:27:5b:c0:6c says 192.168.1.10 / Padding
+Ether / ARP is at 08:00:27:1f:b7:23 says 192.168.1.1
+Ether / ARP who has 192.168.1.1 says 192.168.1.20
+Ether / ARP is at 08:00:27:9b:cc:54 says 192.168.1.1 / Padding
+Ether / ARP is at 08:00:27:1f:b7:23 says 192.168.1.10
+Ether / IP / UDP / DNS Qry b'example.com.'
+Ether / IP / UDP / DNS Qry b'example.com.'
+Ether / IP / ICMP / IPerror / UDPerror / DNS Qry b'example.com.'
+Ether / IP / UDP / DNS Qry b'example.com.'
+Ether / IP / UDP / DNS Qry b'example.com.'
+Ether / IP / UDP / DNS Ans 192.168.1.1
+Ether / IP / ICMP / IPerror / UDPerror / DNS Ans 192.168.1.1
+Ether / IP / UDP / DNS Ans 192.168.1.1
+Ether / IP / UDP / DNS Ans refused
+Ether / IP / UDP / DNS Ans refused
+Ether / IP / TCP 192.168.1.10:60186 > 192.168.1.1:http S
+Ether / IP / TCP 192.168.1.10:60186 > 192.168.1.1:http S
+Ether / IP / TCP 192.168.1.1:http > 192.168.1.10:60186 SA
+Ether / IP / TCP 192.168.1.1:http > 192.168.1.10:60186 SA
+Ether / IP / TCP 192.168.1.10:60186 > 192.168.1.1:http A
+Ether / IP / TCP 192.168.1.10:60186 > 192.168.1.1:http A
+Ether / IP / TCP / HTTP / GET '/' 
+Ether / IP / TCP / HTTP / GET '/' 
+Ether / IP / TCP 192.168.1.1:http > 192.168.1.10:60186 A
+Ether / IP / TCP 192.168.1.1:http > 192.168.1.10:60186 A
+Ether / IP / TCP / HTTP / 200 OK / Raw
+Ether / IP / TCP 192.168.1.1:http > 192.168.1.10:60186 PA / HTTP / Raw
+Ether / IP / TCP / HTTP / 200 OK / Raw
+Ether / IP / TCP 192.168.1.1:http > 192.168.1.10:60186 PA / HTTP / Raw
+Ether / IP / TCP 192.168.1.10:60186 > 192.168.1.1:http A
+Ether / IP / TCP 192.168.1.10:60186 > 192.168.1.1:http A
+Ether / IP / TCP 192.168.1.10:60186 > 192.168.1.1:http A
+Ether / IP / TCP 192.168.1.10:60186 > 192.168.1.1:http A
+Ether / IP / TCP 192.168.1.10:60186 > 192.168.1.1:http FA
+Ether / IP / TCP 192.168.1.10:60186 > 192.168.1.1:http FA
+Ether / IP / TCP 192.168.1.1:http > 192.168.1.10:60186 FA
+Ether / IP / TCP 192.168.1.1:http > 192.168.1.10:60186 FA
+Ether / IP / TCP 192.168.1.10:60186 > 192.168.1.1:http A
+Ether / IP / TCP 192.168.1.10:60186 > 192.168.1.1:http A
+Ether / IP / UDP / DNS Qry b'connectivity-check.ubuntu.com.'
+Ether / IP / UDP / DNS Qry b'connectivity-check.ubuntu.com.'
+Ether / IP / UDP / DNS Qry b'connectivity-check.ubuntu.com.'
+Ether / IP / ICMP / IPerror / UDPerror / DNS Qry b'connectivity-check.ubuntu.com.'
+Ether / IP / UDP / DNS Qry b'connectivity-check.ubuntu.com.'
+Ether / IP / UDP / DNS Qry b'connectivity-check.ubuntu.com.'
+Ether / IP / UDP / DNS Qry b'connectivity-check.ubuntu.com.'
+Ether / IP / UDP / DNS Qry b'connectivity-check.ubuntu.com.'
+Ether / IP / UDP / DNS Qry b'connectivity-check.ubuntu.com.'
+Ether / IP / UDP / DNS Ans refused
+Ether / IP / ICMP / IPerror / UDPerror / DNS Ans refused
+Ether / IP / UDP / DNS Ans refused
+Ether / IP / UDP / DNS Ans refused
+Ether / IP / UDP / DNS Ans refused
+Ether / IP / UDP / DNS Ans refused
+Ether / IP / UDP / DNS Ans refused
+Ether / IP / UDP / DNS Ans refused
+Ether / IP / UDP / DNS Qry b'connectivity-check.ubuntu.com.'
+Ether / IP / UDP / DNS Ans refused
+Ether / IP / UDP / DNS Qry b'connectivity-check.ubuntu.com.'
+Ether / IP / UDP / DNS Qry b'connectivity-check.ubuntu.com.'
+Ether / IP / UDP / DNS Qry b'connectivity-check.ubuntu.com.'
+Ether / IP / UDP / DNS Qry b'connectivity-check.ubuntu.com.'
+Ether / IP / UDP / DNS Qry b'connectivity-check.ubuntu.com.'
+Ether / IP / UDP / DNS Qry b'connectivity-check.ubuntu.com.'
+Ether / IP / UDP / DNS Qry b'connectivity-check.ubuntu.com.'
+Ether / IP / UDP / DNS Ans refused
+Ether / IP / UDP / DNS Ans refused
+Ether / IP / UDP / DNS Ans refused
+Ether / IP / UDP / DNS Ans refused
+Ether / IP / UDP / DNS Ans refused
+Ether / IP / UDP / DNS Ans refused
+Ether / IP / UDP / DNS Ans refused
+Ether / IP / UDP / DNS Ans refused
+Ether / ARP who has 192.168.1.10 says 192.168.1.20
+Ether / ARP is at 08:00:27:5b:c0:6c says 192.168.1.10 / Padding
+Ether / ARP is at 08:00:27:1f:b7:23 says 192.168.1.1
+Ether / ARP who has 192.168.1.1 says 192.168.1.20
+Ether / ARP is at 08:00:27:9b:cc:54 says 192.168.1.1 / Padding
+Ether / ARP is at 08:00:27:1f:b7:23 says 192.168.1.10
+Ether / ARP who has 192.168.1.10 says 192.168.1.20
+Ether / ARP is at 08:00:27:5b:c0:6c says 192.168.1.10 / Padding
+Ether / ARP is at 08:00:27:1f:b7:23 says 192.168.1.1
+Ether / ARP who has 192.168.1.1 says 192.168.1.20
+Ether / ARP is at 08:00:27:9b:cc:54 says 192.168.1.1 / Padding
+Ether / ARP is at 08:00:27:1f:b7:23 says 192.168.1.10
+Ether / IP / UDP / DNS Qry b'example.com.'
+Ether / IP / UDP / DNS Qry b'example.com.'
+Ether / IP / ICMP / IPerror / UDPerror / DNS Qry b'example.com.'
+Ether / IP / UDP / DNS Qry b'example.com.'
+Ether / IP / UDP / DNS Qry b'example.com.'
+Ether / IP / UDP / DNS Ans 192.168.1.1
+Ether / IP / ICMP / IPerror / UDPerror / DNS Ans 192.168.1.1
+Ether / IP / UDP / DNS Ans 192.168.1.1
+Ether / IP / UDP / DNS Ans refused
+Ether / IP / UDP / DNS Ans refused
+Ether / IP / TCP 192.168.1.10:60196 > 192.168.1.1:http S
+Ether / IP / TCP 192.168.1.10:60196 > 192.168.1.1:http S
+Ether / IP / TCP 192.168.1.1:http > 192.168.1.10:60196 SA
+Ether / IP / TCP 192.168.1.1:http > 192.168.1.10:60196 SA
+Ether / IP / TCP 192.168.1.10:60196 > 192.168.1.1:http A
+Ether / IP / TCP 192.168.1.10:60196 > 192.168.1.1:http A
+Ether / IP / TCP / HTTP / GET '/' 
+Ether / IP / TCP / HTTP / GET '/' 
+Ether / IP / TCP 192.168.1.1:http > 192.168.1.10:60196 A
+Ether / IP / TCP 192.168.1.1:http > 192.168.1.10:60196 A
+Ether / IP / TCP / HTTP / 200 OK / Raw
+Ether / IP / TCP / HTTP / 200 OK / Raw
+Ether / IP / TCP 192.168.1.1:http > 192.168.1.10:60196 PA / HTTP / Raw
+Ether / IP / TCP 192.168.1.1:http > 192.168.1.10:60196 PA / HTTP / Raw
+Ether / IP / TCP 192.168.1.10:60196 > 192.168.1.1:http A
+Ether / IP / TCP 192.168.1.10:60196 > 192.168.1.1:http A
+Ether / IP / TCP 192.168.1.10:60196 > 192.168.1.1:http A
+Ether / IP / TCP 192.168.1.10:60196 > 192.168.1.1:http A
+Ether / IP / TCP 192.168.1.10:60196 > 192.168.1.1:http FA
+Ether / IP / TCP 192.168.1.10:60196 > 192.168.1.1:http FA
+Ether / IP / TCP 192.168.1.1:http > 192.168.1.10:60196 FA
+Ether / IP / TCP 192.168.1.1:http > 192.168.1.10:60196 FA
+Ether / IP / TCP 192.168.1.10:60196 > 192.168.1.1:http A
+Ether / IP / TCP 192.168.1.10:60196 > 192.168.1.1:http A
+Ether / ARP who has 192.168.1.10 says 192.168.1.20
+Ether / ARP is at 08:00:27:5b:c0:6c says 192.168.1.10 / Padding
+Ether / ARP is at 08:00:27:1f:b7:23 says 192.168.1.1
+Ether / ARP who has 192.168.1.1 says 192.168.1.20
+Ether / ARP is at 08:00:27:9b:cc:54 says 192.168.1.1 / Padding
+Ether / ARP is at 08:00:27:1f:b7:23 says 192.168.1.10
+Ether / IP / UDP / DNS Qry b'example.com.'
+Ether / IP / ICMP / IPerror / UDPerror / DNS Qry b'example.com.'
+Ether / IP / UDP / DNS Qry b'example.com.'
+Ether / IP / UDP / DNS Ans 192.168.1.1
+Ether / IP / ICMP / IPerror / UDPerror / DNS Ans 192.168.1.1
+Ether / IP / UDP / DNS Ans 192.168.1.1
+Ether / ARP who has 192.168.1.10 says 192.168.1.20
+Ether / ARP is at 08:00:27:5b:c0:6c says 192.168.1.10 / Padding
+Ether / ARP is at 08:00:27:1f:b7:23 says 192.168.1.1
+Ether / ARP who has 192.168.1.1 says 192.168.1.20
+Ether / ARP is at 08:00:27:9b:cc:54 says 192.168.1.1 / Padding
+Ether / ARP is at 08:00:27:1f:b7:23 says 192.168.1.10
+Ether / ARP who has 192.168.1.10 says 192.168.1.20
+Ether / ARP is at 08:00:27:5b:c0:6c says 192.168.1.10 / Padding
+Ether / ARP is at 08:00:27:1f:b7:23 says 192.168.1.1
+Ether / ARP who has 192.168.1.1 says 192.168.1.20
+Ether / ARP is at 08:00:27:9b:cc:54 says 192.168.1.1 / Padding
+Ether / ARP is at 08:00:27:1f:b7:23 says 192.168.1.10
+Ether / IP / UDP / DNS Qry b'example.com.'
+Ether / IP / UDP / DNS Qry b'example.com.'
+Ether / IP / ICMP / IPerror / UDPerror / DNS Qry b'example.com.'
+Ether / IP / UDP / DNS Qry b'example.com.'
+Ether / IP / UDP / DNS Qry b'example.com.'
+Ether / IP / UDP / DNS Ans 192.168.1.1
+Ether / IP / UDP / DNS Ans refused
+Ether / IP / ICMP / IPerror / UDPerror / DNS Ans 192.168.1.1
+Ether / IP / UDP / DNS Ans 192.168.1.1
+Ether / IP / UDP / DNS Ans refused
+Ether / IP / ICMP 192.168.1.10 > 192.168.1.1 echo-request 0 / Raw
+Ether / IP / ICMP 192.168.1.10 > 192.168.1.1 echo-request 0 / Raw
+Ether / IP / ICMP 192.168.1.1 > 192.168.1.10 echo-reply 0 / Raw
+Ether / IP / ICMP 192.168.1.1 > 192.168.1.10 echo-reply 0 / Raw
+Ether / IP / UDP / DNS Qry b'1.1.168.192.in-addr.arpa.'
+Ether / IP / UDP / DNS Qry b'1.1.168.192.in-addr.arpa.'
+Ether / IP / UDP / DNS Ans name-error
+Ether / IP / UDP / DNS Ans name-error
+Ether / ARP who has 192.168.1.10 says 192.168.1.20
+Ether / ARP is at 08:00:27:5b:c0:6c says 192.168.1.10 / Padding
+Ether / ARP is at 08:00:27:1f:b7:23 says 192.168.1.1
+Ether / ARP who has 192.168.1.1 says 192.168.1.20
+Ether / ARP is at 08:00:27:9b:cc:54 says 192.168.1.1 / Padding
+Ether / IP / ICMP 192.168.1.10 > 192.168.1.1 echo-request 0 / Raw
+Ether / IP / ICMP 192.168.1.10 > 192.168.1.1 echo-request 0 / Raw
+Ether / IP / ICMP 192.168.1.1 > 192.168.1.10 echo-reply 0 / Raw
+Ether / IP / ICMP 192.168.1.1 > 192.168.1.10 echo-reply 0 / Raw
+Ether / IP / UDP / DNS Qry b'1.1.168.192.in-addr.arpa.'
+Ether / IP / UDP / DNS Qry b'1.1.168.192.in-addr.arpa.'
+Ether / IP / UDP / DNS Ans name-error
+Ether / IP / UDP / DNS Ans name-error
+Ether / ARP is at 08:00:27:1f:b7:23 says 192.168.1.10
